@@ -1,6 +1,6 @@
 # ese_todo_app
 
-A new Flutter project.
+A very simole and basic todo app in flutter
 
 ## Getting Started
 
